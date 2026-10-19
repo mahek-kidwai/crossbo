@@ -1,0 +1,82 @@
+[
+  {
+    "id": "butter-chicken",
+    "name": "Butter Chicken",
+    "category": "Mains",
+    "price": 18,
+    "base_prep_time_mins": 20,
+    "description": "Tender chicken simmered in a silky tomato-butter gravy, finished with cream and warm spices. Served with steamed basmati rice.",
+    "dietary": ["Dairy", "Gluten"],
+    "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "caesar-salad",
+    "name": "Caesar Salad",
+    "category": "Salads",
+    "price": 12,
+    "base_prep_time_mins": 10,
+    "description": "Crisp romaine, shaved parmesan, toasted croutons and a house Caesar dressing. Light, bright, and ready quickly.",
+    "dietary": ["Egg", "Dairy", "Gluten"],
+    "image": "https://images.unsplash.com/photo-1550304943-4f24f54ddde9?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lamb-shank",
+    "name": "Lamb Shank",
+    "category": "Mains",
+    "price": 28,
+    "base_prep_time_mins": 40,
+    "description": "Slow-braised lamb shank with rosemary jus, root vegetables, and a potato puree. A signature in-room dining classic.",
+    "dietary": ["Dairy"],
+    "image": "https://images.unsplash.com/photo-1544025162-d76640320d2a?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "club-sandwich",
+    "name": "Club Sandwich",
+    "category": "Sandwiches",
+    "price": 15,
+    "base_prep_time_mins": 15,
+    "description": "Triple-stack toasted sandwich with grilled chicken, smoked bacon, lettuce, tomato, and herb mayonnaise.",
+    "dietary": ["Egg", "Gluten"],
+    "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "penne-pasta",
+    "name": "Penne Pasta",
+    "category": "Pasta",
+    "price": 10,
+    "base_prep_time_mins": 18,
+    "description": "A classic Italian delight with perfectly cooked penne tossed in a rich and creamy sauce, complemented by fresh herbs and parmesan cheese for an indulgent experience.",
+    "dietary": ["Egg", "Dairy", "Vegetarian"],
+    "image": "https://images.unsplash.com/photo-1621996346565-e3dbc353d2e5?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "margherita-pizza",
+    "name": "Margherita Pizza",
+    "category": "Pizza",
+    "price": 16,
+    "base_prep_time_mins": 22,
+    "description": "Wood-fired pizza with San Marzano tomato, fresh mozzarella, basil, and extra-virgin olive oil.",
+    "dietary": ["Dairy", "Gluten", "Vegetarian"],
+    "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "tomato-bisque",
+    "name": "Tomato Bisque",
+    "category": "Starters",
+    "price": 9,
+    "base_prep_time_mins": 12,
+    "description": "Velvety roasted tomato bisque with basil oil and a warm mini focaccia on the side.",
+    "dietary": ["Dairy", "Vegetarian"],
+    "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "grilled-salmon",
+    "name": "Grilled Salmon",
+    "category": "Mains",
+    "price": 24,
+    "base_prep_time_mins": 25,
+    "description": "Atlantic salmon grilled to medium, lemon-caper butter, seasonal greens, and herb potatoes.",
+    "dietary": ["Dairy"],
+    "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&w=1200&q=80"
+  }
+]
